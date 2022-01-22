@@ -16,7 +16,7 @@
 <br/>
 hi, i'm Anshul Rana, a passionate self-taught full stack web developer and a freelance Game Developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-- 💼 any freelance work? do reach, [email](work24anshul@gmail.com)
+- 💼 any freelance work? do reach, [email](mailto:work24anshul@gmail.com)
 
 **languages and tools:**
 
