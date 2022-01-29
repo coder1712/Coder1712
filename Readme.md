@@ -32,9 +32,11 @@ hi, i'm Anshul Rana, a passionate self-taught full stack web developer and a fre
 
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=coder1712&show_icons=true&theme=gotham" alt="AnshulRana" />
-  <br>
-  📈 my streak stats<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coder1712" />  <br>
-  📊 my language stats <br>
+<br>
+📈 my streak stats<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coder1712" />  
+<br>
+📊 my language stats 
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder1712"/>
   
