@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 👨‍🎓 I'm enrolled in Mathematics And Computing(B.Tech: 2020-2024) at NIT Hamirpur🏫
 - 👨‍💻 I'm intermediate level developer in Unity AR/VR & game development
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play Candy Crush / Sudoku
 
 ### Connect with me:
